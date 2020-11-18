@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Intro-Bold';
+    src: url('../fonts/Intro/Intro-Bold.eot');
+    src: local('Intro-Bold'), local('Intro-Bold'),
+    url('../fonts/Intro/Intro-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Intro/Intro-Bold.woff') format('woff'),
+    url('../fonts/Intro/Intro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFUIDisplay-Regular';
+    src: url('../fonts/SFUDisplay/SFUIDisplay-Regular.eot');
+    src: local('SFUIDisplay-Regular'), local('SFUIDisplay-Regular'),
+    url('../fonts/SFUDisplay/SFUIDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUDisplay/SFUIDisplay-Regular.woff') format('woff'),
+    url('../fonts/SFUDisplay/SFUIDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SFUIDisplay-Bold';
+    src: url('../fonts/SFUDisplay/SFUIDisplay-Bold.eot');
+    src: local('PSFUIDisplay-Bold'), local('SFUIDisplay-Bold'),
+    url('../fonts/SFUDisplay/SFUIDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUDisplay/SFUIDisplay-Bold.woff') format('woff'),
+    url('../fonts/SFUDisplay/SFUIDisplay-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFUIDisplay-Semibold';
+    src: url('../fonts/SFUDisplay/SFUIDisplay-Semibold.eot');
+    src: local('SFUIDisplay-Semibold'), local('SFUIDisplay-Semibold'),
+    url('../fonts/SFUDisplay/SFUIDisplay-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUDisplay/SFUIDisplay-Semibold.woff') format('woff'),
+    url('../fonts/SFUDisplay/SFUIDisplay-Semibold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,36 @@
+.partners {
+
+  .partner {
+    height: 100%;
+    display: flex;
+    margin: 0 auto;
+  }
+
+  .owl-stage {
+    display: flex;
+  }
+
+  .owl-item {
+    margin-top: 30px;
+
+    img {
+      max-width: 100%;
+      margin: auto;
+      width: auto;
+      display: inline-block;
+    }
+  }
+}
+
+.owl-nav {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  z-index: 2;
+
+}
+
+.owl-next {
+  right: 0;
+  position: absolute;
+}
